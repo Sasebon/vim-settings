@@ -1,0 +1,2 @@
+3.0
+{'VimClojure': {'checked_time': 1420858509, 'installed_uri': 'https://github.com/vim-scripts/VimClojure.git', 'installed_path': 'C:/vim/bundle/VimClojure', 'revisions': {'1346568328': '2a17c249571395a7f45523d38cac6a9326ecf8f1'}, 'updated_time': '1346568328'}, 'neobundle.vim': {'checked_time': 1420858533, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': 'C:/vim/bundle/neobundle.vim', 'revisions': {}, 'updated_time': '1419043176'}}
