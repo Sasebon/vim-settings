@@ -10,11 +10,21 @@ if has('vim_starting')
   call neobundle#rc(expand('$VIM\bundle'))
 endif
 
+
+
+
 " originalrepos on github
+"管理プラグイン
 NeoBundle 'Shougo/neobundle.vim'
 
+" 以下にプラグインを追加する
 
-" 以下
+
+" ファイルオープン系
+NeoBundle 'Shougo/unite.vim'
+
+
+
 
 
 
