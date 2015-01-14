@@ -24,9 +24,11 @@ NeoBundle 'Shougo/neobundle.vim'
 NeoBundle 'Shougo/unite.vim'
 
 
-
-
-
+"再起動の挙動設定
+NeoBundle 'tyru/restart.vim'
+" 終了時に保存するセッションオプションを設定する
+let g:restart_sessionoptions
+    \ = 'blank,buffers,curdir,folds,help,localoptions,tabpages'
 
 
 " ここまで
